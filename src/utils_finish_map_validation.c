@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "../includes/so_long.h"
 
 void	count_in_row(char *row, int width, t_game *game)
